@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Bem-vindo(a) ao perfil da Central Desktop
 
-<!--
-**centraldesktopoficial/centraldesktopoficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos uma central de soluções práticas para o seu PC, com foco em ferramentas gratuitas, automações e tutoriais de qualidade. Seja bem-vindo(a) ao nosso repositório oficial!
 
-Here are some ideas to get you started:
+🌐 Site oficial:  
+🔗 [centraldesktopoficial.com.br](https://www.centraldesktopoficial.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Ferramenta em destaque:  
+➡️ [Instalador automático do Microsoft Visual C++ (todas as versões)](https://github.com/centraldesktopoficial/centraldesktop-vcredist/releases/tag/v1.0.0)
+
+📺 Canal no YouTube:  
+🎥 [@centraldesktopoficial](https://www.youtube.com/@centraldesktopoficial)
+
+---
+
+> ⚙️ Este perfil é mantido por Central Desktop. Nosso objetivo é tornar tarefas complexas do Windows simples, rápidas e acessíveis para todos.
+
+![Visitantes](https://komarev.com/ghpvc/?username=centraldesktopoficial&label=Visitantes&color=blue&style=flat)
+![Downloads](https://img.shields.io/github/downloads/centraldesktopoficial/centraldesktop-vcredist/v1.0.0/total?label=Downloads&style=flat-square)
